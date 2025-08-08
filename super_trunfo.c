@@ -4,6 +4,8 @@
 */
 #include <stdio.h>
 
+// Desafio Super Trunfo - Países
+// Tema 1 - Cadastro das Cartas
 int main(){
 
     char estado, codigo_carta[4], nome_cidade[50], estado_2, codigo_carta_2[4], nome_cidade_2[50];
