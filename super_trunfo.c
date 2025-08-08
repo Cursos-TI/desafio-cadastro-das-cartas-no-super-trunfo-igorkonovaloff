@@ -1,3 +1,7 @@
+/*Autor     : Igor Konovaloff Lacerda
+  Matrícula : 202508035855
+  Data      : 08/08/2025 
+*/
 #include <stdio.h>
 
 int main(){
